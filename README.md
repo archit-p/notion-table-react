@@ -37,6 +37,11 @@ npm install
 npm start
 ```
 
+Otherwise, use the dev version
+```bash
+npm run dev
+```
+
 ## Contributions
 
 Contributions are welcome! Feel free to pick an item from the roadmap below or open a fresh issue!
